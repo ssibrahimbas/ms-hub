@@ -1,0 +1,28 @@
+{
+  "name": "@ssibrahimbas/ms-hub",
+  "version": "0.0.2",
+  "description": "A CommonJS Tool Hub For Microservice",
+  "homepage": "https://github.com/ssibrahimbas/ms-hub/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/ssibrahimbas/ms-hub/issues",
+    "email": "info@samisalihibrahimbas.com.tr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssibrahimbas/ms-hub.git"
+  },
+  "files": [
+    "**/**/*"
+  ],
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "Microservice",
+    "Hub",
+    "NodeJS"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
